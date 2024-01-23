@@ -1,0 +1,26 @@
+:root {
+    --color-main: #3A9B37;
+    --background-color: #ffffff;
+    --heading-text: "open sans";
+    --general-text: "Monserrat";
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.top {
+    background-color: var(--color-main);
+    color: var(--background-color);
+    span {
+        
+    }
+    a:link {
+        color: var(--background-color);
+        text-decoration: ;
+    }
+}
